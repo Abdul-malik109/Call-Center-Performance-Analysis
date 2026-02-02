@@ -73,3 +73,8 @@ This project analyzes call center operational and customer data to uncover insig
 
 ## 🏁 Conclusion
 This project demonstrates practical **data analytics and Excel dashboarding skills**, showcasing the ability to convert raw data into actionable insights. The final dashboard enables stakeholders to quickly monitor performance, identify trends, and make informed business decisions.
+
+## 📬 Contact
+If you’d like to discuss this project or collaborate, feel free to connect with me on LinkedIn or reach out via GitHub.
+- **LinkedIn:** https://www.linkedin.com/in/abdulml87/
+- **GitHub:** https://github.com/Abdul-malik109
